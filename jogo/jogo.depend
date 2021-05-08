@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618797195 source:c:\users\diniz\desktop\biblioteca sdl\jogo\jogo\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+
