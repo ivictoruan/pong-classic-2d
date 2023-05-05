@@ -15,13 +15,14 @@ sudo apt-get install freeglut3-dev
 
 Após instalar as dependências, basta clonar o repositório:
 
-https://github.com/ivictoruan/pong-classic
+https://github.com/ivictoruan/pong-classic-2d
+
 
 
 E compilar o jogo:
 
 ```
-cd pong-classic
+cd pong-classic-2d
 ```
 
 ```
